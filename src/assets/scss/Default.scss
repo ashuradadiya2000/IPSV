@@ -1,0 +1,90 @@
+// Styles
+
+// Main styles
+@import "./config/default/bootstrap.scss";
+@import "./config/default/app.scss";
+
+$min-height: 0;
+$max-height: 100;
+
+@for $i from $min-height through $max-height {
+    .height-#{$i} {
+        height: #{$i}px !important;
+    }
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    content: '/';
+}
+
+#wrapper {
+    padding-top: 70px;
+    background-color: rgb(242, 249, 254);
+}
+
+.custom-tabs {
+    width: 120px;
+}
+
+.admin-navbar-custom {
+    background-color: #36454F;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sidebar {
+    border-right: 1px solid #d8e7f4;
+    background-color: #36454f;
+    width: 280px;
+    padding: 24px;
+    border-radius: 25px 0 0 25px;
+    overflow: hidden;
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    li {
+        list-style: none;
+        display: flex;
+        align-items: center;
+        margin: 6px 0;
+        &.active a{
+            color: #00aeff;
+            background: #3d5260;
+            border-radius: 8px;
+        }
+        a{
+            display: block;
+            width: 100%;
+            color: #fff;
+            padding: 12px;
+            &:hover {
+                color: #00aeff;
+                background: #3d5260;
+                border-radius: 8px;
+            }
+        }
+    }
+}
+.admin-side-wrap{
+    padding: 20px;
+}
+
+.admin-content {
+    display: flex;
+    min-height: calc(100vh - 85px);
+    box-shadow: 0 0 8px 1px #dfdfdf;
+    border-radius: 25px;
+    background-color: #fff;
+}
+
+.admin-inner {
+    width: 100%;
+    flex: 1;
+    padding: 24px;
+}
+
+.custom-card{
+    box-shadow: 0px 1px 6px rgb(0 0 0 / 14%);
+}

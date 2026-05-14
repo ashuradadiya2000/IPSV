@@ -1,0 +1,45 @@
+/*
+Template Name: Ubold - Responsive Bootstrap 5 Admin Dashboard
+Version: 7.0.0
+Author: CoderThemes
+Email: support@coderthemes.com
+File: Main Css File
+*/
+
+// Core files
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/variables";
+@import "variables";
+@import "./node_modules/bootstrap/scss/mixins";
+
+// Structure
+@import "../../custom/structure/topbar";
+@import "../../custom/structure/right-sidebar";
+@import "../../custom/structure/page-head";
+@import "../../custom/structure/sidenav";
+@import "../../custom/structure/two-column-menu";
+@import "../../custom/structure/horizontal";
+@import "../../custom/structure/footer";
+
+//Pages
+@import "../../custom/pages/authentication";
+@import "../../custom/pages/components-demo";
+@import "../../custom/pages/error";
+@import "../../custom/pages/logout";
+@import "../../custom/pages/faq";
+@import "../../custom/pages/maintenance";
+@import "../../custom/pages/timeline";
+@import "../../custom/pages/email";
+@import "../../custom/pages/sitemap";
+@import "../../custom/pages/search-results";
+@import "../../custom/pages/pricing";
+@import "../../custom/pages/gallery";
+@import "../../custom/pages/coming-soon";
+@import "../../custom/pages/profile";
+@import "../../custom/pages/task";
+@import "../../custom/pages/kanbanboard";
+@import "../../custom/pages/ecommerce";
+@import "../../custom/pages/order-detail";
+
+
+// Plugins
