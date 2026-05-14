@@ -1,0 +1,81 @@
+{
+  "watchDetails": {
+    "Reference": "1",
+    "Title": "NUVO RECIDENTIAL LLC",
+    "Patents": "3",
+    "Families": "45"
+  },
+  "documents": [
+    {
+      "documentId": "US10899653453",
+      "companyName": "NUVO RECIDENTIAL LLC",
+      "year": "2020"
+    },
+    {
+      "documentId": "US10899653454",
+      "companyName": "NUVO RECIDENTIAL LLC",
+      "year": "2015"
+    },
+    {
+      "documentId": "US10899653455",
+      "companyName": "NUVO RECIDENTIAL LLC",
+      "year": "2018"
+    }
+  ],
+  "bibliographicData": [
+    {
+      "US10899653453": {
+        "publicationNo": "US10899654B2",
+        "legalStatus": "Patented Case",
+        "applicationNo": "US201214002098A",
+        "assignees": "Aquis Wasser LUFT SYSTEM",
+        "inventors": "TROJAN HEITELE",
+        "publicationDate": "2021-01-06",
+        "applicationDate": "2012-02-24",
+        "priorityDate": "2011-03-04",
+        "title": "Water conditioner for preventing or reducing mineral precipitation.",
+        "abstract": "A water conditioner is provided..."
+      },
+      "US10899653454": {
+        "publicationNo": "US10899654B3",
+        "legalStatus": "Pending Case",
+        "applicationNo": "US201214002099B",
+        "assignees": "Aquis Wasser LUFT SYSTEM",
+        "inventors": "TROJAN HEITELE",
+        "publicationDate": "2021-02-10",
+        "applicationDate": "2013-03-15",
+        "priorityDate": "2012-04-20",
+        "title": "Advanced water conditioner with improved functionality.",
+        "abstract": "This water conditioner improves..."
+      },
+      "US10899653455": {
+        "publicationNo": "US10899654B4",
+        "legalStatus": "Abandoned Case",
+        "applicationNo": "US201214002100C",
+        "assignees": "Aquis Wasser LUFT SYSTEM",
+        "inventors": "TROJAN HEITELE",
+        "publicationDate": "2022-03-15",
+        "applicationDate": "2014-04-25",
+        "priorityDate": "2013-05-30",
+        "title": "High-efficiency water conditioner.",
+        "abstract": "An improved water conditioner..."
+      }
+    }
+  ],
+  "Claims": [
+    {
+      "US10899653453": {
+        "firstClaim": "A transportable manufacturing system comprising a container that houses all the necessary equipment, tools, and components required for manufacturing various types of products, wherein the container is designed to be easily transported using standard transportation methods and can be installed in any location with minimal setup time.",
+        "fullClaim": "1. A transportable manufacturing system comprising a container that houses all the necessary equipment, tools, and components required for manufacturing various types of products, wherein the container is designed to be easily transported using standard transportation methods and can be installed in any location with minimal setup time.\n\n2. The system as claimed in claim 1, wherein the container comprises a power supply unit, a climate control system, and a communication system, which enable it to operate in different environments.\n\n3. The system as claimed in claim 1, wherein the manufacturing equipment and tools are compact and lightweight, allowing them to be easily transported and set up within the container.\n\n4. The system as claimed in claim 1, wherein the container is equipped with a modular system that allows for customization according to specific manufacturing requirements.\n\n5. The system as claimed in claim 1, wherein the facility can be used for a variety of applications, such as prototyping, testing, and small-scale production.\n\n6. The system as claimed in claim 1, wherein the facility is designed to be energy-efficient, reducing the carbon footprint of the manufacturing process.\n\n7. The system as claimed in claim 1, wherein the facility is easily relocated to different locations, making it an ideal solution for companies that need to manufacture products in multiple locations.\n\n8. A method of manufacturing the system as claimed in claim 1, comprising the steps of transporting the container to a desired location, setting up the container, and utilizing the equipment and tools housed within the container to manufacture products.\n\n9. The method as claimed in claim 8, wherein the manufacturing process comprises designing, prototyping, testing, and small-scale production of various types of products.\n\n10. The method as claimed in claim 8, wherein the manufacturing facility is easily transported to different locations, eliminating the need for multiple fixed manufacturing facilities. Dated this the 29th day of April 2023 [VIVEK DAHIYA] AGENT FOR THE APPLICANT – IN/PA 1491."
+      },
+      "US10899653454": {
+        "firstClaim": "1. An IoT Based Lab Component Issue/Submit Record Keeping System, comprises: a) Barcode Scanner: b) RFID Sensor: c) Arduino Microcontroller d) Cable For Arduino UNO/MEGA (USB A to B) e) Jumper Wires: (To setup RFID sensor with Arduino) all the above component are together built into the device.",
+        "fullClaim": "1. An IoT Based Lab Component Issue/Submit Record Keeping System, comprises: a) Barcode Scanner: b) RFID Sensor: c) Arduino Microcontroller d) Cable For Arduino UNO/MEGA (USB A to B) e) Jumper Wires: (To setup RFID sensor with Arduino) all the above component are together built into the device."
+      },
+      "US10899653455": {
+        "firstClaim": "1. An IoT Based Lab Component Issue/Submit Record Keeping System, comprises: a) Barcode Scanner: b) RFID Sensor: c) Arduino Microcontroller d) Cable For Arduino UNO/MEGA (USB A to B) e) Jumper Wires: (To setup RFID sensor with Arduino) all the above component are together built into the device.",
+        "fullClaim": "1. An IoT Based Lab Component Issue/Submit Record Keeping System, comprises: a) Barcode Scanner: b) RFID Sensor: c) Arduino Microcontroller d) Cable For Arduino UNO/MEGA (USB A to B) e) Jumper Wires: (To setup RFID sensor with Arduino) all the above component are together built into the device."
+      }
+    }
+  ]
+}
